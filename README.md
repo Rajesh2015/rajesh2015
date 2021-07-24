@@ -1,6 +1,6 @@
 ## Hey , welcome to my profile
 
-- 🔭 I’m currently working on data engineering projects but not limited to that,open to explore any new techstacks
+- 🔭 I’m currently working on java ,scala and data engineering projects but not limited to that,open to explore any new techstacks
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking for help with open-source
 - 💬 Ask me about anything
