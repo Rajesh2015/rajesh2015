@@ -1,12 +1,12 @@
 ## Hey , welcome to my profile
 
-- 🔭 I’m currently working on data engineering projects but not limited to that.Open to explore any new techstacks
+- 🔭 I’m currently working on data engineering projects but not limited to that,open to explore any new techstacks
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking for help with open-source
 - 💬 Ask me about anything
 - 📫 How to reach me: dashrajesh49@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a human
+- ⚡ Fun fact:I'm currently learning everything 😂
 
 <h2 align="center">About Me</h2>
 
