@@ -77,18 +77,18 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 
 ### Stats -
 
-[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh2015&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh2015&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh2015&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh2015&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Few of my Repos -
-[![Streaming to delta Tables](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-steraming-with-delltalake&theme=dracula)](https://github.com/rajesh2015/spark-steraming-with-delltalake)
-[![D stream Example](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-dstream&theme=dracula)](https://github.com/rajesh2015/spark-dstream)
-[![Apche Hoodi Poc](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=hoodi-demo&theme=dracula)](https://github.com/rajesh2015/hoodi-demo)
-[![Automated Databricks Docker](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=automated-databricks-deploy&theme=dracula)](https://github.com/rajesh2015/automated-databricks-deploy)
-[![Spark SCD2 Impl](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-scd2&theme=dracula)](https://github.com/rajesh2015/spark-scd2)
-[![Grammer creation for programming langugae](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=DSL-using-Xtext-and-Xtend&theme=dracula)](https://github.com/rajesh2015/DSL-using-Xtext-and-Xtend)
-[![Factory pattern](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=Factory-Pattern-by-leveraging-Lambda-&theme=dracula)](https://github.com/rajesh2015/Factory-Pattern-by-leveraging-Lambda-)
+[![Streaming to delta Tables](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-steraming-with-delltalake&theme=gruvbox)](https://github.com/rajesh2015/spark-steraming-with-delltalake)
+[![D stream Example](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-dstream&theme=gruvbox)](https://github.com/rajesh2015/spark-dstream)
+[![Apche Hoodi Poc](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=hoodi-demo&theme=gruvbox)](https://github.com/rajesh2015/hoodi-demo)
+[![Automated Databricks Docker](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=automated-databricks-deploy&theme=gruvbox)](https://github.com/rajesh2015/automated-databricks-deploy)
+[![Spark SCD2 Impl](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-scd2&theme=gruvbox)](https://github.com/rajesh2015/spark-scd2)
+[![Grammer creation for programming langugae](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=DSL-using-Xtext-and-Xtend&theme=gruvbox)](https://github.com/rajesh2015/DSL-using-Xtext-and-Xtend)
+[![Factory pattern](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=Factory-Pattern-by-leveraging-Lambda-&theme=gruvbox)](https://github.com/rajesh2015/Factory-Pattern-by-leveraging-Lambda-)
 
 
 
