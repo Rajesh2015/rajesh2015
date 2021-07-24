@@ -16,7 +16,7 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 
 <p align="center">
   <a href="https://www.blogger.com/profile/15634381021427933250">
-    <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="Rajesh Dash's Blogger Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Rajesh Dash's Blogger Profile" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/rajesh-kumar-dash-973b45119//">
