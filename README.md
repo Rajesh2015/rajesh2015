@@ -82,7 +82,7 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh2015&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Few of my Repos -
-[![Streaming to delta Tables](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-steraming-with-delltalake)](https://github.com/rajesh2015/spark-steraming-with-delltalake)
+[![Streaming to delta Tables](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-steraming-with-delltalake&theme=dracula)](https://github.com/rajesh2015/spark-steraming-with-delltalake)
 [![D stream Example](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-dstream)](https://github.com/rajesh2015/spark-dstream)
 [![Apche Hoodi Poc](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=hoodi-demo)](https://github.com/rajesh2015/hoodi-demo)
 [![Automated Databricks Docker](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=automated-databricks-deploy)](https://github.com/rajesh2015/automated-databricks-deploy)
