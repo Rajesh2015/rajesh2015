@@ -36,11 +36,22 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <h2 align="center">Language And Tools</h2>
 
 <img align="left" alt="Java" height="25" width="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="scala" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala/scala-icon.svg" />
+<img align="left" alt="scala" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" />
 <img align="left" alt="Javascript" height="25" width="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
-<img align="left" alt="Cassandra" height="25" width="25" src="https://www.vectorlogo.zone/logos/cassandra/cassandra-icon.svg" />
-<img align="left" alt="kafka" height="25" width="25" src="https://www.vectorlogo.zone/logos/kafka/kafka-icon.svg" />
-<img align="left" alt="sbt" height="25" width="25" src="https://www.vectorlogo.zone/logos/sbt/sbt-icon.svg" />
+<img align="left" alt="Css" height="25" width="25" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" />
+<img align="left" alt="Cassandra" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra/-icon.svg" />
+<img align="left" alt="kafka" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
+<img align="left" alt="Sbt" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" />
+<img align="left" alt="Hive" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
+<img align="left" alt="Elastic" height="25" width="25" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+<img align="left" alt="Elastic" height="25" width="25" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" />
+<img align="left" alt="Git" height="25" width="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="GitHub" height="25" width="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img align="left" alt="Linux" height="25" width="25" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" alt="Jenkins" height="25" width="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="left" alt="Eclipse" height="25" width="25" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
+<img align="left" alt="IntelJIdea" height="25" width="25" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+<img align="left" alt="Visual Studio Code" height="25" width="25" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 
 <br />
