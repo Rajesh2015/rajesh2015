@@ -46,9 +46,9 @@ I am a passionate Java developer,Data engineer, I like making websites , apps an
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/spark-dstream)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/hoodi-demo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/automated-databricks-deploy)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com2015/rajesh/spark-scd2)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com2015/DSL-using-Xtext-and-Xtend)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com2015/Factory-Pattern-by-leveraging-Lambda-)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/spark-scd2)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/DSL-using-Xtext-and-Xtend)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh2015/Factory-Pattern-by-leveraging-Lambda-)
 
 
 
