@@ -55,8 +55,8 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <img align="left" alt="Visual Studio Code" height="25" width="25" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 
-<br />
-<br />
+---
+
 
 ### 📕 Latest Blog Posts
 
@@ -67,9 +67,10 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 - [Implement SCD Type 2 via Spark Data Frames](https://rajeshblogs.medium.com/implement-scd-type-2-via-spark-data-frames-5d49a15c053d?source=rss-2f740d9a2655------2)
 - [SCD Type1 Implementation in Spark](https://www.rajeshblogs.in/2020/12/scd-type1-implementation-in-spark.html)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://codestackr.com)
 
-<br />
-<br />
+---
+
 
 <h2 align="center">Visitor's count</h2>
 
