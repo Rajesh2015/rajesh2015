@@ -80,6 +80,8 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 5. 🎉 Merged PR [#11](https://github.com/henrikbulldog/spark.org.anonymizer/pull/11) in [henrikbulldog/spark.org.anonymizer](https://github.com/henrikbulldog/spark.org.anonymizer)
 <!--END_SECTION:activity-->
 
+![](https://komarev.com/ghpvc/?username=rajesh2015)
+
 <h2 align="center">Visitor's count</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/rajesh2015/count.svg" alt="AnhellO :: Visitor's Count" /></p>
