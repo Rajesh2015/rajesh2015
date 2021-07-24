@@ -39,7 +39,12 @@ I am a passionate Java developer,Data engineer, I like making websites , apps an
 
 [![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh2015&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh2015&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh2015&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh/automated-databricks-deploy)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh/spark-steraming-with-delltalake)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/rajesh/spark-scd2)
+
 
 <h2 align='center'>Support Me :)</h2>
 <div><h3 align='center'>ko-fi</h3>
