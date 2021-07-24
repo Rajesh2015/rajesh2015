@@ -58,6 +58,11 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center">Visitor's count</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/rajesh2015/count.svg" alt="AnhellO :: Visitor's Count" /></p>
