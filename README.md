@@ -57,7 +57,6 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <br />
 
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -69,7 +68,6 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <!-- BLOG-POST-LIST:END -->
 
 ➡️[more blog posts...](https://www.rajeshblogs.in)
-
 <br />
 
 <h2 align="center">Visitor's count</h2>
@@ -91,6 +89,13 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 [![Grammer creation for programming langugae](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=DSL-using-Xtext-and-Xtend&theme=gruvbox)](https://github.com/rajesh2015/DSL-using-Xtext-and-Xtend)
 [![Factory pattern](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=Factory-Pattern-by-leveraging-Lambda-&theme=gruvbox)](https://github.com/rajesh2015/Factory-Pattern-by-leveraging-Lambda-)
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 
 
