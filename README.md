@@ -39,7 +39,8 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <img align="left" alt="scala" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" />
 <img align="left" alt="Javascript" height="25" width="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Css" height="25" width="25" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" />
-<img align="left" alt="Cassandra" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra/-icon.svg" />
+<img align="left" alt="Cassandra" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="kafka" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
 <img align="left" alt="Sbt" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" />
 <img align="left" alt="Hive" height="25" width="25" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
