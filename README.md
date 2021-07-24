@@ -10,13 +10,13 @@
 
 <h2 align="center">About Me</h2>
 
-I am a passionate ,RCP developer,Data engineer, I like making websites , apps and games (basically everything)
+I am a passionate Java developer,Data engineer, I like making websites , apps and games (basically everything)
 
 <h2 align="center">Reach me at</h2>
 
 <p align="center">
   <a href="https://www.blogger.com/profile/15634381021427933250">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rajesh Dash's DEV Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="Rajesh Dash's Blogger Profile" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/rajesh-kumar-dash-973b45119//">
