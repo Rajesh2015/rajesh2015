@@ -35,7 +35,13 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 
 <h2 align="center">Language And Tools</h2>
 
-<img align="left" alt="Java" height="20" width="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Java" height="25" width="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="scala" height="25" width="25" src="https://www.vectorlogo.zone/logos/scala/scala-icon.svg" />
+<img align="left" alt="Javascript" height="25" width="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="Cassandra" height="25" width="25" src="https://www.vectorlogo.zone/logos/cassandra/cassandra-icon.svg" />
+<img align="left" alt="kafka" height="25" width="25" src="https://www.vectorlogo.zone/logos/kafka/kafka-icon.svg" />
+<img align="left" alt="sbt" height="25" width="25" src="https://www.vectorlogo.zone/logos/sbt/sbt-icon.svg" />
+
 
 <br />
 <br />
