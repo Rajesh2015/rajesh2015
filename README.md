@@ -70,6 +70,16 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 ➡️[more blog posts...](https://www.rajeshblogs.in)
 <br />
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/henrikbulldog/databricks_deploy/issues/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
+2. 💪 Opened PR [#2](https://github.com/henrikbulldog/databricks_deploy/pull/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
+3. 🎉 Merged PR [#1](https://github.com/henrikbulldog/databricks_deploy/pull/1) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
+4. 💪 Opened PR [#1](https://github.com/henrikbulldog/databricks_deploy/pull/1) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
+5. 🎉 Merged PR [#11](https://github.com/henrikbulldog/spark.org.anonymizer/pull/11) in [henrikbulldog/spark.org.anonymizer](https://github.com/henrikbulldog/spark.org.anonymizer)
+<!--END_SECTION:activity-->
+
 <h2 align="center">Visitor's count</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/rajesh2015/count.svg" alt="AnhellO :: Visitor's Count" /></p>
@@ -88,19 +98,6 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 [![Spark SCD2 Impl](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=spark-scd2&theme=gruvbox)](https://github.com/rajesh2015/spark-scd2)
 [![Grammer creation for programming langugae](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=DSL-using-Xtext-and-Xtend&theme=gruvbox)](https://github.com/rajesh2015/DSL-using-Xtext-and-Xtend)
 [![Factory pattern](https://github-readme-stats.vercel.app/api/pin/?username=rajesh2015&repo=Factory-Pattern-by-leveraging-Lambda-&theme=gruvbox)](https://github.com/rajesh2015/Factory-Pattern-by-leveraging-Lambda-)
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/henrikbulldog/databricks_deploy/issues/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
-2. 💪 Opened PR [#2](https://github.com/henrikbulldog/databricks_deploy/pull/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
-3. 🎉 Merged PR [#1](https://github.com/henrikbulldog/databricks_deploy/pull/1) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
-4. 💪 Opened PR [#1](https://github.com/henrikbulldog/databricks_deploy/pull/1) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
-5. 🎉 Merged PR [#11](https://github.com/henrikbulldog/spark.org.anonymizer/pull/11) in [henrikbulldog/spark.org.anonymizer](https://github.com/henrikbulldog/spark.org.anonymizer)
-<!--END_SECTION:activity-->
-
----
 
 
 
