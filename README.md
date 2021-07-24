@@ -95,7 +95,7 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <div><h3 align='center'>ko-fi</h3>
 <div display='flex'>
   <a href="https://ko-fi.com/rajeshkumardash">
-    <img src="https://storage.ko-fi.com/cdn/useruploads/daa80581-9fa9-4ae1-83d3-76adc1e0fd20.png" alt="Akshat Singhania's Kofi" width='40%'>
+    <img src="https://storage.ko-fi.com/cdn/useruploads/daa80581-9fa9-4ae1-83d3-76adc1e0fd20.png" alt="Rajesh Dash's Kofi" width='40%'>
   </a>
 </p></div>
 </div>
