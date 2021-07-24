@@ -61,11 +61,9 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Dockerize Spark Jobs with Databricks Container Services](https://rajeshblogs.medium.com/dockerize-spark-jobs-with-databricks-container-services-d39aa430a3e3?source=rss-2f740d9a2655------2)
+- [Implementation of cdc in spark using delta file](https://rajeshblogs.medium.com/streaming-kafka-topic-to-delta-table-in-scala-dbce86d1cdb2?source=rss-2f740d9a2655------2)
+- [Implement SCD Type 2 via Spark Data Frames](https://rajeshblogs.medium.com/implement-scd-type-2-via-spark-data-frames-5d49a15c053d?source=rss-2f740d9a2655------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
