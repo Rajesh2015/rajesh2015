@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am a passionate Java developer,Data engineer, I like making websites , apps and games (basically everything)
+I am a passionate Java developer,Data engineer, I like making apps and playing with data (basically everything)
 
 <h2 align="center">Reach me at</h2>
 
