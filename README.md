@@ -62,9 +62,7 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 <!-- BLOG-POST-LIST:START -->
 - [Dockerize Spark Jobs with Databricks Container Services](https://rajeshblogs.medium.com/dockerize-spark-jobs-with-databricks-container-services-d39aa430a3e3?source=rss-2f740d9a2655------2)
 - [Implementation of cdc in spark using delta file](https://rajeshblogs.medium.com/streaming-kafka-topic-to-delta-table-in-scala-dbce86d1cdb2?source=rss-2f740d9a2655------2)
-- [Implement SCD Type 2 via Spark Data Frames](https://www.rajeshblogs.in/2021/05/implement-scd-type-2-via-spark-data.html)
 - [Implement SCD Type 2 via Spark Data Frames](https://rajeshblogs.medium.com/implement-scd-type-2-via-spark-data-frames-5d49a15c053d?source=rss-2f740d9a2655------2)
-- [SCD Type1 Implementation in Spark](https://www.rajeshblogs.in/2020/12/scd-type1-implementation-in-spark.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️[more blog posts...](https://www.rajeshblogs.in)
