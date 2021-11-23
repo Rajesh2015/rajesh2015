@@ -72,14 +72,14 @@ I am a passionate Java developer,Data engineer, I like making apps and playing w
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#1](https://github.com/Rajesh2015/spark.org.anonymizer/pull/1) in [Rajesh2015/spark.org.anonymizer](https://github.com/Rajesh2015/spark.org.anonymizer)
 2. 💪 Opened PR [#1](https://github.com/Rajesh2015/spark.org.anonymizer/pull/1) in [Rajesh2015/spark.org.anonymizer](https://github.com/Rajesh2015/spark.org.anonymizer)
 3. 🗣 Commented on [#2](https://github.com/henrikbulldog/databricks_deploy/issues/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
 4. 🗣 Commented on [#2](https://github.com/henrikbulldog/databricks_deploy/issues/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
 5. 🗣 Commented on [#2](https://github.com/henrikbulldog/databricks_deploy/issues/2) in [henrikbulldog/databricks_deploy](https://github.com/henrikbulldog/databricks_deploy)
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:end-->
 
 <h2 align="center">Visitor's count</h2>
 
