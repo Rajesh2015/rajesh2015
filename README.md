@@ -74,9 +74,9 @@ I am a passionate developer,Data engineer, I like making apps and playing with d
 
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/henrikbulldog/ml-boilerplate/pull/9) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
-2. 🔱 Forked [Rajesh2015/recent-activity](https://github.com/Rajesh2015/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 📔 Created new repository [Rajesh2015/coding-assignment](https://github.com/Rajesh2015/coding-assignment)
+1. 👍 Approved [#10](https://github.com/henrikbulldog/ml-boilerplate/pull/10#pullrequestreview-864393259) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
+2. 💪 Opened PR [#9](https://github.com/henrikbulldog/ml-boilerplate/pull/9) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
+3. 🔱 Forked [Rajesh2015/recent-activity](https://github.com/Rajesh2015/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4. 🔱 Forked [Rajesh2015/github-profile-readme-generator](https://github.com/Rajesh2015/github-profile-readme-generator) from [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 5. 🔱 Forked [Rajesh2015/ml-boilerplate](https://github.com/Rajesh2015/ml-boilerplate) from [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
 <!--RECENT_ACTIVITY:end-->
