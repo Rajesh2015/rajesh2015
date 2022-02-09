@@ -74,11 +74,11 @@ I am a passionate developer,Data engineer, I like making apps and playing with d
 
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
-2. 📔 Created new repository [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
-3. 💪 Opened PR [#12](https://github.com/henrikbulldog/ml-boilerplate/pull/12) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
-4. 👍 Approved [#11](https://github.com/henrikbulldog/ml-boilerplate/pull/11#pullrequestreview-865688411) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
-5. 👍 Approved [#10](https://github.com/henrikbulldog/ml-boilerplate/pull/10#pullrequestreview-864393259) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
+1. 🎉 Merged PR [#1](https://github.com/Rajesh2015/fastapi-react-octa-auth-example/pull/1) in [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
+2. 🤝 Became collaborator on [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
+3. 📔 Created new repository [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
+4. 📔 Created new repository [Rajesh2015/fastapi-react-octa-auth-example](https://github.com/Rajesh2015/fastapi-react-octa-auth-example)
+5. 💪 Opened PR [#12](https://github.com/henrikbulldog/ml-boilerplate/pull/12) in [henrikbulldog/ml-boilerplate](https://github.com/henrikbulldog/ml-boilerplate)
 <!--RECENT_ACTIVITY:end-->
 
 <h2 align="center">Visitor's count</h2>
